@@ -6,4 +6,4 @@ Ces logiciels sont issues d'exercice au cours de mon cursus universitaire. Vous 
 
 ## Codeur :
 **Bastien BOMBARDELLA** -- [**IUT Lyon 1**](http://iut.univ-lyon1.fr) -- *Département Informatique* -- [Lien vers mon site web](https://www.bastienbc.fr/)
-<div><img height="100px" src="https://avatars3.githubusercontent.com/u/62190797?s=400&u=a4dc8af553c4c87b096b51a285084b5887f43960&v=4"><a href="http://iut.univ-lyon1.fr"><img height="100px" src="https://iut.univ-lyon1.fr/uas/IUT2015/LOGO/logositeweb_72ppp.png"></a></div>
+<div><a href="https://github.com/bbombardella/"><img height="100px" src="https://avatars3.githubusercontent.com/u/62190797?s=400&u=a4dc8af553c4c87b096b51a285084b5887f43960&v=4"></a><a href="http://iut.univ-lyon1.fr"><img height="100px" src="https://iut.univ-lyon1.fr/uas/IUT2015/LOGO/logositeweb_72ppp.png"></a></div>
